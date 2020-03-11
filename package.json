@@ -1,0 +1,22 @@
+{
+  "name": "quicksetup",
+  "version": "0.1.0",
+  "description": "A quick-setup repo, similar to React's create-react-app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/awdltd/quicksetup.git"
+  },
+  "author": "Oliver Hepworth-Bell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/awdltd/quicksetup/issues"
+  },
+  "homepage": "https://github.com/awdltd/quicksetup#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@awdltd"
+  },
+}
